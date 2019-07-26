@@ -26,6 +26,10 @@ This app was built in the context of a Node.js course on Udemy: [The Complete No
 
 ## Usage
 
-For running the app in your local server, clone the repository and open it in any text editor.
+**For running the app in your local server**:
+Clone the repository and open it in any text editor.
 Go into the web-server directory and run `node src/app`.
 Open localhost:3000 in your browser.
+
+**For accessing the app in the deployment server**:
+The app is accessible at https://fcosta-weather-app-nodejs.herokuapp.com
