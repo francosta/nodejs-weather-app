@@ -5,6 +5,11 @@
 This is a simple weather app.
 A user can search for any location in the world and get a detailed, updated weather forecast for that location.
 
+## Production Stage
+
+This app is still under production.
+Basic functionality is done. About and Help pages still under construction.
+
 ## Technologies
 
 The backend was built using Node.js and Express.
